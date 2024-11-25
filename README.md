@@ -42,11 +42,11 @@ This Breakout game is a classic arcade game implemented using Python and Pygame.
    ```
 4. Clone the repository:
    ```sh
-   git clone https://github.com/AlexN0305/Capstone_BreakoutGame.git
+   git clone https://github.com/JutstinT301/Breakout
    ```
 5. Navigate to the Cloned Repository:
    ```sh
-   cd Capstone_BreakoutGame
+   cd Breakout
    ```
 6. Before running the code, ensure you have Python and Pygame installed:
    ```sh
